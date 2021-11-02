@@ -1,0 +1,4 @@
+How to draw a line?
+
+To draw a line you can use Bresenham's line algorithm (simpler solution) 
+or Xiaolin Wu's line algorithm (more sophisticated solution which will produced more beautiful result).
